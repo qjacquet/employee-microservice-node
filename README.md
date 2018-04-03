@@ -47,7 +47,7 @@ docker build -t qjacquet/employee-microservice-node .
 
 To run the docker image:
 ```bash
-docker run -p 8000:8000 omerio/employee-microservice-node
+docker run -p 8000:8000 qjacquet/employee-microservice-node
 ```
 
 Publish the image to [Docker Hub](https://hub.docker.com/):
